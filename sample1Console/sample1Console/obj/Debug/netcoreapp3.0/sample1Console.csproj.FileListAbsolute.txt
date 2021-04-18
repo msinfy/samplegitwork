@@ -1,0 +1,11 @@
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\obj\Debug\netcoreapp3.0\sample1Console.csprojAssemblyReference.cache
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\obj\Debug\netcoreapp3.0\sample1Console.AssemblyInfoInputs.cache
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\obj\Debug\netcoreapp3.0\sample1Console.AssemblyInfo.cs
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.exe
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.deps.json
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.runtimeconfig.json
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.runtimeconfig.dev.json
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.dll
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\bin\Debug\netcoreapp3.0\sample1Console.pdb
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\obj\Debug\netcoreapp3.0\sample1Console.dll
+C:\Users\Md\source\repos\msinfy\samplegitwork\sample1Console\sample1Console\obj\Debug\netcoreapp3.0\sample1Console.pdb
