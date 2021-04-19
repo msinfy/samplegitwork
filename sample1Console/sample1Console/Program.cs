@@ -7,7 +7,7 @@ namespace sample1Console
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Good Morning!");
+            Console.WriteLine("Good Morning 1 2 3!");
 
             Console.WriteLine("Hi Mohammed!");
 
